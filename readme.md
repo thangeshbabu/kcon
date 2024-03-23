@@ -1,4 +1,4 @@
-# Kubectl Context Switcher Script
+# kubernetes Context Switcher Script
 ![keybind](./readme/press-keybind.gif)
 
 This script automates the process of switching between Kubernetes contexts using a hotkey combination in the Zsh shell. It requires the following prerequisites:
